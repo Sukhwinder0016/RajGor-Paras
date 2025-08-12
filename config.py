@@ -92,8 +92,8 @@ USER_REPLY_TEXT = "ʙʀᴏ  ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ᴏᴡɴᴇʀ !!\
 #==========================(BUY PREMIUM)====================#
 
 OWNER_TAG = os.environ.get("OWNER_TAG", "RajGor_Paras")
-UPI_ID = os.environ.get("UPI_ID", "9328296446@ptyes")
-QR_PIC = os.environ.get("QR_PIC", "https://i.ibb.co/LXhJbg8T/photo-2025-08-10-15-21-09-7536977300156317720.jpg")
+UPI_ID = os.environ.get("UPI_ID", "mota.paras@ptaxis")
+QR_PIC = os.environ.get("QR_PIC", "https://i.ibb.co/zhxTPSrd/photo-2025-08-12-16-15-59-7537733592357535748.jpg")
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/RajGor_Paras")
 #--------------------------------------------
 #Time and its price
