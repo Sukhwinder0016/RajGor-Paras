@@ -51,7 +51,7 @@ SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://envs.sh/lbj.jpg")
 
 #--------------------------------------------
 HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @CineHub_Cinema\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/RajGor_Paras>Rᴀᴊɢᴏʀ Pᴀʀᴀꜱ</a></blockquote></b>"
-ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/RajGor_Paras>Rᴀᴊɢᴏʀ Pᴀʀᴀꜱ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/CineHub_Cinema>Pᴀʀᴀꜱ</a>\n◈ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/CineHub_Cinema>ʙᴀᴄᴋᴜᴘ</a>\n◈ ᴄɪɴᴇʜᴜʙ ʀᴇɢɪᴏɴᴀʟ : <a href=https://t.me/https://t.me/+GuoUVXBucRo1NDI9>ᴄɪɴᴇʜᴜʙ ʀᴇɢɪᴏɴᴀʟ</a>\n◈ ᴛʜᴇᴀᴛᴇʀ ᴘʀɪɴᴛ : <a href=https://t.me/https://t.me/+PNeUd5ztj9swYzk9>ᴊᴏɪɴ 🚀</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/RajGor_Paras>Rᴀᴊɢᴏʀ Pᴀʀᴀꜱ</a></blockquote></b>"
+ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/RajGor_Paras>Rᴀᴊɢᴏʀ Pᴀʀᴀꜱ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/CineHub_Cinema>Pᴀʀᴀꜱ</a>\n◈ ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/CineHub_Cinema>ʙᴀᴄᴋᴜᴘ</a>\n◈ ᴄɪɴᴇʜᴜʙ ʀᴇɢɪᴏɴᴀʟ : <a href=https://t.me/+GuoUVXBucRo1NDI9>ᴄɪɴᴇʜᴜʙ ʀᴇɢɪᴏɴᴀʟ</a>\n◈ ᴛʜᴇᴀᴛᴇʀ ᴘʀɪɴᴛ : <a href=https://t.me/+PNeUd5ztj9swYzk9>ᴊᴏɪɴ 🚀</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/RajGor_Paras>Rᴀᴊɢᴏʀ Pᴀʀᴀꜱ</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\n<blockquote> ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</blockquote></b>")
